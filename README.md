@@ -1,1 +1,1 @@
-Projects made using Python and OpenCV
+Projects made using Python 3.11.9 and OpenCV
